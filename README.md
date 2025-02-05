@@ -25,6 +25,11 @@ Projects
 
 [JavaScript Interview QnAs](https://play.google.com/store/apps/details?id=appbuck3t.javascriptinterviewquestionsandanswers)
 
+Website
+-------
+
+[https://everyday-tech.net/](https://everyday-tech.net/)
+
 Contact
 -------
 
